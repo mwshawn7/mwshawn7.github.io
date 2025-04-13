@@ -3,7 +3,7 @@ layout: default
 title: Mithun Waddadar
 ---
 
-![Mithun's Photo](profile.jpg)
+![Mithun's Photo](profile.JPG)
 
 # Mithun Waddadar
 
