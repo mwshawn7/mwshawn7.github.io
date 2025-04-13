@@ -58,9 +58,9 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ## 💼 Skills
 
-**Programming Language:** Python, Visual Basic, C, C++
-**Software:** ArcGIS, Microsoft Office, AutoCAD, HEC-RAS, VSCode, SAP, ETABS, MATLAB, Adobe Premier Pro
-**Website:**  [🔗 E-procurement](https://www.eprocure.gov.bd/)
+- **Programming Language:** Python, Visual Basic, C, C++
+- **Software:** ArcGIS, Microsoft Office, AutoCAD, HEC-RAS, VSCode, SAP, ETABS, MATLAB, Adobe Premier Pro
+- **Website:**  [E-procurement](https://www.eprocure.gov.bd/)
 
 ---
 
@@ -74,14 +74,14 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ## 🧪 Research Experience
 
-**Performance Evaluation of Lab Scale Hybrid Up-flow Anaerobic Sludge Blanket Reactor in Treating Textile Wastewater** under Department of Civil Engineering in the Faculty of Civil Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka. My thesis supervisor was [🔗 Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)
+**Performance Evaluation of Lab Scale Hybrid Up-flow Anaerobic Sludge Blanket Reactor in Treating Textile Wastewater** under Department of Civil Engineering in the Faculty of Civil Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka. My thesis supervisor was [Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)
 
 ---
 
 ## 📃 Publications
-1. Conference Paper titled: [🔗 PROSPECTS OF HYBRID UP-FLOW ANAEROBIC SLUDGE BLANKET REACTOR IN TREATING TEXTILE WASTEWATER IN BANGLADESH](https://www.researchgate.net/publication/343007552_PROSPECTS_OF_HYBRID_UP-FLOW_ANAEROBIC_SLUDGE_BLANKET_REACTOR_IN_TREATING_TEXTILE_WASTEWATER_IN_BANGLADESH)
+1. Conference Paper titled: [PROSPECTS OF HYBRID UP-FLOW ANAEROBIC SLUDGE BLANKET REACTOR IN TREATING TEXTILE WASTEWATER IN BANGLADESH](https://www.researchgate.net/publication/343007552_PROSPECTS_OF_HYBRID_UP-FLOW_ANAEROBIC_SLUDGE_BLANKET_REACTOR_IN_TREATING_TEXTILE_WASTEWATER_IN_BANGLADESH)
 
-2. Article titled: [🔗 Textile wastewater treatment by anaerobic sludge blanket reactor](https://www.researchgate.net/publication/344395778_Textile_wastewater_treatment_by_anaerobic_sludge_blanket_reactor)
+2. Article titled: [Textile wastewater treatment by anaerobic sludge blanket reactor](https://www.researchgate.net/publication/344395778_Textile_wastewater_treatment_by_anaerobic_sludge_blanket_reactor)
 
 ---
 
@@ -135,17 +135,17 @@ Travelling, Cycling, Badminton, Cricket, Football, Volleyball, Literature, Music
 
 ## 🧑‍🏫 Reference
 
-**[🔗 Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)**
-**[🔗 Dr. Tanjir Saif Ahmed](https://scholar.google.com/citations?user=I0psaXEAAAAJ&hl=en)**
-**[🔗 Dr. Robin Kumar Biswas](https://scholar.google.com/citations?user=kt0nSX8AAAAJ&hl=en)**
+- **[Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)**
+- **[Dr. Tanjir Saif Ahmed](https://scholar.google.com/citations?user=I0psaXEAAAAJ&hl=en)**
+- **[Dr. Robin Kumar Biswas](https://scholar.google.com/citations?user=kt0nSX8AAAAJ&hl=en)**
 
 ---
 
 ## 📹 Video Creations
 
 - The following Youtube Videos are edited by me.
-**[🔗 Goillachori Khal Excavation](https://youtu.be/__-n3HQEcR0?si=umwnskN53c0aPKT8)**
-**[🔗 Golarpara Khal Excavation](https://youtu.be/02VMBH0vZz4?si=O9zVsHtBcgsfjKk4)**
-**[🔗 Bagguzra Rubber Dam](https://youtu.be/TuO_oG9q-1s?si=DryuZst2BS3m_c2u)**
-**[🔗 Bangladesh Myanmar Border Project](https://youtu.be/M53KZx1t7hI?si=AMcFgBHr0rNu-9Gt)**
+- **[🔗 Goillachori Khal Excavation](https://youtu.be/__-n3HQEcR0?si=umwnskN53c0aPKT8)**
+- **[🔗 Golarpara Khal Excavation](https://youtu.be/02VMBH0vZz4?si=O9zVsHtBcgsfjKk4)**
+- **[🔗 Bagguzra Rubber Dam](https://youtu.be/TuO_oG9q-1s?si=DryuZst2BS3m_c2u)**
+- **[🔗 Bangladesh Myanmar Border Project](https://youtu.be/M53KZx1t7hI?si=AMcFgBHr0rNu-9Gt)**
 
