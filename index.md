@@ -7,7 +7,7 @@ title: Mithun Waddadar
 
 # Mithun Waddadar
 
-📍 **BWDB | Magura | Bangladesh**  
+📍 **Sub-Divisional Engineer | Bangladesh Water Development Board**  
 📞 +880183-9682726  
 📧 mwshawn7@gmail.com  
 [🔗 LinkedIn](https://www.linkedin.com/in/mithun-waddadar)
@@ -16,13 +16,13 @@ title: Mithun Waddadar
 
 ## 👨‍💻 About Me
 
-I’m a Sub-Divisional Engineer at Bangladesh Water Development Board, currently posted in Magura. Over the years, I’ve had the opportunity to work across diverse regions—starting at the Planning Office in Dhaka, then gaining hands-on field experience in coastal Cox’s Bazar, and now continuing my journey in the heart of southwestern Bangladesh.
+I am a dedicated Sub-Divisional Engineer at the Bangladesh Water Development Board (BWDB), currently stationed in Magura. My professional journey has taken me from the strategic corridors of the Planning Office in Dhaka to the dynamic coastal landscapes of Cox’s Bazar, and now to the heart of southwestern Bangladesh. Each posting has enriched my understanding of the nation's diverse water resource challenges.
 
-Though my academic background is in Environmental Engineering from BUET—where I focused on anaerobic wastewater treatment for my thesis—I’ve since transitioned into the field of Water Resources Engineering. My professional interests lie in riverbank erosion, channel shifting, and sediment transport—areas I plan to explore further through future research and publication.
+My academic foundation lies in Environmental Engineering, having earned my B.Sc. from BUET. My undergraduate thesis focused on the anaerobic treatment of textile wastewater using a Hybrid Up-flow Anaerobic Sludge Blanket (HUASB) reactor, reflecting my early commitment to sustainable environmental solutions. Transitioning into Water Resources Engineering, I have developed a keen interest in riverbank erosion, channel shifting, and sediment transport—areas I am eager to explore further through future research and publications.
 
-Beyond engineering design and project implementation, I have a strong inclination toward data-driven decision-making. I work regularly with tools like Microsoft Excel, Python, and ArcGIS for spatial and statistical analysis. I’m also experienced in public procurement and contract management within government infrastructure projects.
+In my professional role, I blend engineering expertise with data-driven decision-making. Proficient in tools like Microsoft Excel, Python, and ArcGIS, I conduct spatial and statistical analyses to inform project planning and implementation. Additionally, I have substantial experience in public procurement and contract management, ensuring transparency and efficiency in government infrastructure projects.
 
-With each project and region I serve, I aim to contribute to sustainable water management solutions tailored to the unique challenges of Bangladesh.
+Beyond my technical endeavors, I am passionate about contributing to sustainable water management practices that address the unique challenges faced by Bangladesh. I am committed to continuous learning and collaboration, aiming to make a meaningful impact in the field of water resources engineering.
 
 ---
 
@@ -87,6 +87,7 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ## 🌟 Leadership
 
+- **Sub-Divisional Engineer** - Need to lead my sub division that consists of Sub Assistant Engineers, Surveyers, Work Assistants, Office Assistants etc.
 - **Organizer**, Earthquake Competition, Eccentric Civil Fest 2018  
 - **General Secretary**, BADHAN (Blood Donation Org), Suhrawardy Hall Unit  
 - **Survey Team Leader**, CE-104, Jhilmil Project Survey
@@ -126,8 +127,8 @@ Travelling, Cycling, Badminton, Cricket, Football, Volleyball, Literature, Music
 
 ## 📌 Contact Info
 
+- **Present Address**: [Magura WD Sub Division-2, BWDB, Magura](https://maps.app.goo.gl/G4p3Z9jBkVSTyucYA).
 - **Permanent Address**: Village: East Shakpura, Boalkhali, Chattogram  
-- **Present Address**: Magura WD Sub Division-2, BWDB, Magura.  
 - **Date of Birth**: 26 August 1996  
 - **Nationality**: Bangladeshi
 
