@@ -35,6 +35,17 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ---
 
+## 💡 Training 
+
+- **Introduction of Hydrological Model using HEC-HEC** under Project for Planning Capacity Enhancement and Establishment of A Technology Adaptation Cycle on Comprehensive Nodi (River) Management by JICA Expert Team
+- **Programming for Everybody (Getting Started with Python)** an online non-credit course authorized by University of Michigan and offered through Coursera.
+- **Introduction to Data Analysis using Microsoft Excel** an online non-credit project authorized by Coursera Project Network and offered through Coursera.
+- **Basic Procurement Training under Digitizing Implementation Monitoring and Public Procurement Project** organized by CPTU, IMED, Ministry of Planning
+- **Foundation Training Course** under Training Institute, BWDB.
+- **Design of Small Scale Hydraulic Structure and River Training Works** under Training Institute, BWDB.
+
+---
+
 ## 🏗️ Work Interests
 
 - Bank Erosion
@@ -42,6 +53,15 @@ With each project and region I serve, I aim to contribute to sustainable water m
 - Sediment Transportation
 - Flood management
 - Sustainable Water Resources Management
+
+---
+
+## 💼 Skills
+
+**Programming Language:** Python, Visual Basic, C, C++
+**Software:** ArcGIS, Microsoft Office, AutoCAD, HEC-RAS, VSCode, SAP, ETABS, MATLAB, Adobe Premier Pro
+**Website:**  [🔗 E-procurement](https://www.eprocure.gov.bd/)
+
 ---
 
 ## 🎓 Education
@@ -52,16 +72,9 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ---
 
-## 💼 Skills
-
-**Software:** ArcGIS, SAP, ETABS, AutoCAD, MATLAB, Microsoft Office, VSCode
-**Programming Language:** Python, VBA, C, C++
-
----
-
 ## 🧪 Research Experience
 
-**Performance Evaluation of Lab Scale Hybrid Up-flow Anaerobic Sludge Blanket Reactor in Treating Textile Wastewater** under Department of Civil Engineering in the Faculty of Civil Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka. My thesis supervisor was Professor [🔗 Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)
+**Performance Evaluation of Lab Scale Hybrid Up-flow Anaerobic Sludge Blanket Reactor in Treating Textile Wastewater** under Department of Civil Engineering in the Faculty of Civil Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka. My thesis supervisor was [🔗 Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)
 
 ---
 
@@ -82,7 +95,7 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ## 🏅 Honours & Awards
 
-- **Champion**, Creative Canvas (Environment), BUET 2018  
+- **Champion**, Creative Canvas (Environment), BUET 2018  - A Poster Presentation Featuring our research work.
 - **BUET Merit Scholarship** (2016–2018)  
 - **BUET Technical Scholarship** (2014–2018)  
 - **Agrani Bank Scholarship**
@@ -91,10 +104,10 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ## 🎯 Extracurriculars
 
-- **Champion**, Inter Hall Volleyball, 2018 (Libero)  
+- **Champion**, Inter Hall Volleyball, 2018 
 - **Volunteer**, Civil Summit 2016, BUET  
 - **Cycling** — 650+ KM from Banglabandha to Meherpur  
-- **Mess Manager**, Suhrawardy Hall, 2017
+- **Mess Manager**, Suhrawardy Hall, BUET, 2017
 
 ---
 
@@ -107,14 +120,14 @@ With each project and region I serve, I aim to contribute to sustainable water m
 
 ## 🎨 Interests
 
-Travelling, Cycling, PC Games, Football, Volleyball, Literature, Music, Movies
+Travelling, Cycling, Badminton, Cricket, Football, Volleyball, Literature, Music, Movies
 
 ---
 
 ## 📌 Contact Info
 
 - **Permanent Address**: Village: East Shakpura, Boalkhali, Chattogram  
-- **Present Address**: Room #5002, Suhrawardy Hall, BUET, Dhaka-1000  
+- **Present Address**: Magura WD Sub Division-2, BWDB, Magura.  
 - **Date of Birth**: 26 August 1996  
 - **Nationality**: Bangladeshi
 
@@ -122,8 +135,17 @@ Travelling, Cycling, PC Games, Football, Volleyball, Literature, Music, Movies
 
 ## 🧑‍🏫 Reference
 
-**Dr. Tanvir Ahmed**  
-Associate Professor, Dept. of Civil Engineering, BUET  
-🔗 [Website](https://sites.google.com/view/eccentric2018/events/creative-canvas?authuser=0)
+**[🔗 Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)**
+**[🔗 Dr. Tanjir Saif Ahmed](https://scholar.google.com/citations?user=I0psaXEAAAAJ&hl=en)**
+**[🔗 Dr. Robin Kumar Biswas](https://scholar.google.com/citations?user=kt0nSX8AAAAJ&hl=en)**
 
+---
+
+## 📹 Video Creations
+
+- The following Youtube Videos are edited by me.
+**[🔗 Goillachori Khal Excavation](https://youtu.be/__-n3HQEcR0?si=umwnskN53c0aPKT8)**
+**[🔗 Golarpara Khal Excavation](https://youtu.be/02VMBH0vZz4?si=O9zVsHtBcgsfjKk4)**
+**[🔗 Bagguzra Rubber Dam](https://youtu.be/TuO_oG9q-1s?si=DryuZst2BS3m_c2u)**
+**[🔗 Bangladesh Myanmar Border Project](https://youtu.be/M53KZx1t7hI?si=AMcFgBHr0rNu-9Gt)**
 
