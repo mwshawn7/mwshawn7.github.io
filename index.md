@@ -7,7 +7,7 @@ title: Mithun Waddadar
 
 # Mithun Waddadar
 
-📍 **BUET | Dhaka | Bangladesh**  
+📍 **BWDB | Magura | Bangladesh**  
 📞 +880183-9682726  
 📧 mwshawn7@gmail.com  
 [🔗 LinkedIn](https://www.linkedin.com/in/mithun-waddadar)
@@ -16,16 +16,37 @@ title: Mithun Waddadar
 
 ## 👨‍💻 About Me
 
-Passionate Environmental Engineer dedicated to designing and assessing the environmental impact of engineering plans. Proficient at completing environmental investigations, developing and implementing environmental improvement programs, and collecting and analyzing field data. 
+I’m a Sub-Divisional Engineer at Bangladesh Water Development Board, currently posted in Magura. Over the years, I’ve had the opportunity to work across diverse regions—starting at the Planning Office in Dhaka, then gaining hands-on field experience in coastal Cox’s Bazar, and now continuing my journey in the heart of southwestern Bangladesh.
 
-Specializes in setting goals and environmental parameters for engineering projects.
+Though my academic background is in Environmental Engineering from BUET—where I focused on anaerobic wastewater treatment for my thesis—I’ve since transitioned into the field of Water Resources Engineering. My professional interests lie in riverbank erosion, channel shifting, and sediment transport—areas I plan to explore further through future research and publication.
 
+Beyond engineering design and project implementation, I have a strong inclination toward data-driven decision-making. I work regularly with tools like Microsoft Excel, Python, and ArcGIS for spatial and statistical analysis. I’m also experienced in public procurement and contract management within government infrastructure projects.
+
+With each project and region I serve, I aim to contribute to sustainable water management solutions tailored to the unique challenges of Bangladesh.
+
+---
+
+## 🏗 Work Experience
+
+- **Sub Divisional Engineer**, Magura WD Sub Division-2, BWDB, Magura. September 2024 - Present
+- **Sub Divisional Engineer**, Cox's Bazar O&M Sub Division, BWDB, Cox's Bazar. February, 2023 - September 2024
+- **Assistant Engineer**, Cox's Bazar O&M Division, BWDB, Cox's Bazar. February, 2021 - February, 2023 
+- **Assistant Engineer**, Office of Chief Engineer (Planning), BWDB, Dhaka. July, 2019 - February, 2021
+
+---
+
+## 🏗️ Work Interests
+
+- Bank Erosion
+- Bankline Shifting
+- Sediment Transportation
+- Flood management
+- Sustainable Water Resources Management
 ---
 
 ## 🎓 Education
 
-- **B.Sc. in Civil Engineering**, BUET, 2014–2018  
-  CGPA: 3.73 / 4.00  
+- **B.Sc. in Civil Engineering**, BUET, 2014–2018 — CGPA: 3.72 / 4.00  
 - **HSC**, CUET School and College, 2011–2013 — GPA: 5.00  
 - **SSC**, CUET School and College, 2006–2011 — GPA: 5.00
 
@@ -33,24 +54,21 @@ Specializes in setting goals and environmental parameters for engineering projec
 
 ## 💼 Skills
 
-**Software:** SAP, ETABS, AutoCAD, MATLAB, C++, Microsoft Office  
-**OS:** Windows, Linux
+**Software:** ArcGIS, SAP, ETABS, AutoCAD, MATLAB, Microsoft Office, VSCode
+**Programming Language:** Python, VBA, C, C++
 
 ---
 
 ## 🧪 Research Experience
 
-**Performance Evaluation of Lab Scale Hybrid Up-flow Anaerobic Sludge Blanket Reactor** in Treating Textile Wastewater
+**Performance Evaluation of Lab Scale Hybrid Up-flow Anaerobic Sludge Blanket Reactor in Treating Textile Wastewater** under Department of Civil Engineering in the Faculty of Civil Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka. My thesis supervisor was Professor [🔗 Dr. Tanvir Ahmed](https://ce.buet.ac.bd/profile-of-tanvir-ahmed/)
 
 ---
 
-## 🏗️ Work Interests
+## 📃 Publications
+1. Conference Paper titled: [🔗 PROSPECTS OF HYBRID UP-FLOW ANAEROBIC SLUDGE BLANKET REACTOR IN TREATING TEXTILE WASTEWATER IN BANGLADESH](https://www.researchgate.net/publication/343007552_PROSPECTS_OF_HYBRID_UP-FLOW_ANAEROBIC_SLUDGE_BLANKET_REACTOR_IN_TREATING_TEXTILE_WASTEWATER_IN_BANGLADESH)
 
-- Assessing Air and Water Pollution  
-- Recycling Wastewater  
-- Hazardous Material Management  
-- Environmental Aspects  
-- Roadway Safety  
+2. Article titled: [🔗 Textile wastewater treatment by anaerobic sludge blanket reactor](https://www.researchgate.net/publication/344395778_Textile_wastewater_treatment_by_anaerobic_sludge_blanket_reactor)
 
 ---
 
