@@ -5,7 +5,7 @@ title: [Hi! Welcome to my website!]
 
 # Mithun Waddadar
 
-📍 **Sub-Divisional Engineer | Bangladesh Water Development Board**  
+👷 **Sub-Divisional Engineer | Bangladesh Water Development Board**  
 📞 +880183-9682726  
 📧 mwshawn7@gmail.com  
 [🔗 LinkedIn](https://www.linkedin.com/in/mithun-waddadar)
