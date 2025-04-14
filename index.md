@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mithun Waddadar
-description: [Hi! Welcome to my page!]
+<!-- title: Mithun Waddadar -->
+description: [Hi! Welcome to my website!]
 ---
 
 # Mithun Waddadar
