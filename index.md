@@ -65,9 +65,9 @@ Beyond my technical endeavors, I am passionate about contributing to sustainable
 
 ## 🎓 Education
 
-- **B.Sc. in Civil Engineering**, BUET, 2014–2018 — CGPA: 3.72 / 4.00  
-- **HSC**, CUET School and College, 2011–2013 — GPA: 5.00  
-- **SSC**, CUET School and College, 2006–2011 — GPA: 5.00
+- **B.Sc. in Civil Engineering**, BUET, 2014–2018 # — CGPA: 3.72 / 4.00  
+- **HSC**, CUET School and College, 2011–2013 # — GPA: 5.00  
+- **SSC**, CUET School and College, 2006–2011 # — GPA: 5.00
 
 ---
 
