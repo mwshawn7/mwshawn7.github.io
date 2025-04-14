@@ -15,7 +15,7 @@ description: [Hi! Welcome to my page!]
 
 ## 👨‍💻 About Me
 
-I am a dedicated Sub-Divisional Engineer at the Bangladesh Water Development Board (BWDB), currently stationed in Magura. My professional journey has taken me from the strategic corridors of the Planning Office in Dhaka to the dynamic coastal landscapes of Cox’s Bazar, and now to the heart of southwestern Bangladesh. Each posting has enriched my understanding of the nation's diverse water resource challenges.
+I am a Sub-Divisional Engineer at the Bangladesh Water Development Board (BWDB), currently stationed in Magura. My professional journey has taken me from the strategic corridors of the Planning Office in Dhaka to the dynamic coastal landscapes of Cox’s Bazar, and now to the heart of southwestern Bangladesh. Each posting has enriched my understanding of the nation's diverse water resource challenges.
 
 My academic foundation lies in Environmental Engineering, having earned my B.Sc. from BUET. My undergraduate thesis focused on the anaerobic treatment of textile wastewater using a Hybrid Up-flow Anaerobic Sludge Blanket (HUASB) reactor, reflecting my early commitment to sustainable environmental solutions. Transitioning into Water Resources Engineering, I have developed a keen interest in riverbank erosion, channel shifting, and sediment transport—areas I am eager to explore further through future research and publications.
 
