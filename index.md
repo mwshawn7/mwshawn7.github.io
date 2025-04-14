@@ -3,8 +3,6 @@ layout: default
 title: Mithun Waddadar
 ---
 
-![Mithun's Photo](profile.jpg)
-
 # Mithun Waddadar
 
 📍 **Sub-Divisional Engineer | Bangladesh Water Development Board**  
