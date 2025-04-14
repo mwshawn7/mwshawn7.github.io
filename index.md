@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mithun Waddadar
+description: [Hi! Welcome to my page!]
 ---
 
 # Mithun Waddadar
